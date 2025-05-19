@@ -46,6 +46,12 @@
 
 ### 🏆 Certifications
 
+- 🧩 **Bachelor of Engineering** – Information Science and Engineering
+
+--- 
+
+### 🏆 Certifications
+
 - 🧩 **UX/UI Design with Figma** – Udemy  
 - 💻 **Responsive Web Design** – freeCodeCamp  
 - 🛠️ **Networking & PC Technician (A+)** – NIIT  
