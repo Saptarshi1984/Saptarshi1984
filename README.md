@@ -18,7 +18,10 @@
 `HTML` `CSS` `Sass` `JavaScript` `Bootstrap` `Tailwind CSS` `Vite`
 
 **Backend & Tools:**  
-`Node.js` `MySQL` `Firebase` `Git` `GitHub` `Canva` `Figma` `ZOHO Books`
+`Node.js` `MySQL` `Firebase` `Git` `GitHub` `Canva` 
+
+**UX/UI Tools:**
+`Figma` `ZOHO Books`
 
 ---
 
