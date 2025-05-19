@@ -33,7 +33,7 @@
 ### 📌 Featured Projects
 
 - 🔹 **Portfolio Website** – [Live Demo](https://saptarshi1984.github.io/PortfolioWebsite/)  
-- 🔹 **Food Blog Website** – Responsive design with modern layout & accessibility
+- 🔹 **Food Blog Website** – [Live Demo](https://saptarshi1984.github.io/UM-BlogWebsite/) 
 
 ---
 
