@@ -44,7 +44,7 @@
 
 ---
 
-### 🏆 Certifications
+### 🏆 Education
 
 - 🧩 **Bachelor of Engineering** – Information Science and Engineering
 
