@@ -1,15 +1,56 @@
+<!-- GitHub README.md for Saptarshi Mondal -->
+
 <h1 align="center">Hi 👋, I'm Saptarshi Mondal</h1>
-<h3 align="center">A passionate full stack engineer from India</h3>
+<h3 align="center">Frontend Developer | MERN Stack Intern | UI/UX Enthusiast</h3>
 
-- 🌱 I’m currently learning **Generative AI**
+---
 
-- 💬 Ask me about **C, CSS, HTML, JavaScript**
+🌱 I recently transitioned from a 14-year career in **quality management** to **web development**.  
+🚀 Currently interning as a **Full Stack Web Developer** at Unified Mentor.  
+🎨 Passionate about building clean, intuitive UIs and responsive web apps.  
+📚 Always learning: diving deeper into the **MERN stack** and **Figma-based UI/UX design**.
 
-- 📫 How to reach me **saptarshimondal.mail@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+**Frontend:**  
+`HTML` `CSS` `Sass` `JavaScript` `Bootstrap` `Tailwind CSS` `Vite`
+
+**Backend & Tools:**  
+`Node.js` `MySQL` `Firebase` `Git` `GitHub` `Canva` `Figma` `ZOHO Books`
+
+---
+
+### 🔗 Connect with Me
+
+- 📧 Email: [saptarshimondal.mail@gmail.com](mailto:saptarshimondal.mail@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/saptarshi-mondal-b9242a11a](https://www.linkedin.com/in/saptarshi-mondal-b9242a11a/)  
+- 💻 GitHub Portfolio: [saptarshi1984.github.io/PortfolioWebsite](https://saptarshi1984.github.io/PortfolioWebsite/)
+
+---
+
+### 📌 Featured Projects
+
+- 🔹 **Portfolio Website** – [Live Demo](https://saptarshi1984.github.io/PortfolioWebsite/)  
+- 🔹 **Food Blog Website** – Responsive design with modern layout & accessibility
+
+---
+
+### 🏆 Certifications
+
+- 🧩 **UX/UI Design with Figma** – Udemy  
+- 💻 **Responsive Web Design** – freeCodeCamp  
+- 🛠️ **Networking & PC Technician (A+)** – NIIT  
+
+---
+
+### 🌐 Languages
+
+`English` | `Hindi` | `Bengali` | `Thai (Basic)`
+
+---
+
+> “Code is not just logic. It’s also language, design, and empathy.” 💡  
+> – Saptarshi Mondal
+
