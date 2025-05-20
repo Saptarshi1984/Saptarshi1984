@@ -64,6 +64,4 @@
 
 ---
 
-> “Code is not just logic. It’s also language, design, and empathy.” 💡  
-> – Saptarshi Mondal
 
