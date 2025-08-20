@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 
 **Frontend:**  
-`HTML` `CSS` `Sass` `JavaScript` `Bootstrap` `Tailwind CSS` `Vite`
+`HTML` `CSS` `Sass` `JavaScript` `Bootstrap` `Tailwind CSS` `NextJS` `ReactJS` `AI`
 
 **Backend & Tools:**  
 `Node.js` `MySQL` `Firebase` `Git` `GitHub` 
@@ -33,6 +33,7 @@
 - 📧 Email: [saptarshimondal.mail@gmail.com](mailto:saptarshimondal.mail@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/saptarshi-mondal-b9242a11a](https://www.linkedin.com/in/saptarshi-mondal-b9242a11a/)  
 - 💻 GitHub Portfolio: [saptarshi1984.github.io/PortfolioWebsite](https://saptarshi1984.github.io/PortfolioWebsite/)
+- Website : [Visit My Website](https://www.saptarshidevworks.com)
 
 ---
 
