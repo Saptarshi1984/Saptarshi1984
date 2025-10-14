@@ -6,7 +6,7 @@
   
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer"
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=520&lines=Fullstack+Web+Developer"
       alt="Typing SVG"
     />
   </a>
