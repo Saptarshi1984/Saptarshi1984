@@ -1,7 +1,7 @@
 <!-- GitHub README.md for Saptarshi Mondal -->
 
 <h1 align="center">Hi 👋, I'm Saptarshi Mondal</h1>
-<h3 align="center">Frontend Developer | MERN Stack Intern | UI/UX Enthusiast</h3>
+<h3 align="center">Fullstack Web Developer</h3>
 
 ---
 
