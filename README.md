@@ -61,7 +61,7 @@
 
 ### 🌐 Languages
 
-`English` | `Hindi` | `Bengali` | `Thai (Basic)`
+`English` | `Hindi` | `Bengali` | `Japanese (Basic)`
 
 ---
 
