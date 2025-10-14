@@ -13,6 +13,14 @@
 
 ---
 
+
+🌱 I recently transitioned from a 14-year career in **quality management** to **web development**.  
+🚀 Currently interning as a **Full Stack Web Developer** at Unified Mentor.  
+🎨 Passionate about building clean, intuitive UIs and responsive web apps.  
+📚 Always learning: diving deeper into the **MERN stack** and **Figma-based UI/UX design**.
+
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Saptarshi1984&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
@@ -30,12 +38,7 @@
 </a>
 
 
----
 
-🌱 I recently transitioned from a 14-year career in **quality management** to **web development**.  
-🚀 Currently interning as a **Full Stack Web Developer** at Unified Mentor.  
-🎨 Passionate about building clean, intuitive UIs and responsive web apps.  
-📚 Always learning: diving deeper into the **MERN stack** and **Figma-based UI/UX design**.
 
 
 
