@@ -17,7 +17,7 @@
 ## 📊 GitHub Overview
 
 
-| <!-- Left: GitHub Stats --> 
+ <!-- Left: GitHub Stats --> 
 <a href="https://github.com/Saptarshi1984/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Saptarshi1984&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Saptarshi's GitHub stats" height="180" />
 </a>
