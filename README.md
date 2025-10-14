@@ -19,7 +19,7 @@
 🎨 Passionate about building clean, intuitive UIs and responsive web apps.  
 📚 Always learning: diving deeper into the **MERN stack** and **Figma-based UI/UX design**.
 
----
+
 
 ## 📊 GitHub Stats
 
