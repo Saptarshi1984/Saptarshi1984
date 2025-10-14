@@ -1,7 +1,15 @@
 <!-- GitHub README.md for Saptarshi Mondal -->
 
 <h1 align="center">Hi 👋, I'm Saptarshi Mondal</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=C927F7&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Firebase"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 
 
