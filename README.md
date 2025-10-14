@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saptarshi Mondal</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 
-
+https://readme-typing-svg.demolab.com/demo/?color=CD18F7&center=true&vCenter=true&lines=Fullstack+Web+Developer
 ---
 
 🌱 I recently transitioned from a 14-year career in **quality management** to **web development**.  
