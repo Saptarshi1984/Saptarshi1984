@@ -47,6 +47,21 @@
 
 &nbsp;
 &nbsp;
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/Saptarshi1984/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Saptarshi1984&theme=dracula"
+      alt="Saptarshi's GitHub activity graph"
+      width="100%"
+    />
+  </a>
+</p>
+
+&nbsp;
+&nbsp;
 ### 🛠️ Tech Stack
 
 **Frontend:**  
