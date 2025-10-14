@@ -1,7 +1,7 @@
 <!-- GitHub README.md for Saptarshi Mondal -->
 
 <h1 align="center">Hi 👋, I'm Saptarshi Mondal</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/Fullstack+Web+DeveloperFirst+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 ---
