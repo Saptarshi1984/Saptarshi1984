@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Saptarshi Mondal</h1>
 <h3 align="center">Fullstack Web Developer</h3>
-(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD18F7&width=435&lines=Fullstack+Web+Developer)](https://git.io/typing-svg)
+
 
 ---
 
