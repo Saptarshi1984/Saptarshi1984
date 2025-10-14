@@ -34,14 +34,17 @@
 ## 📊 GitHub Overview
 
 <p align="center">
- <!-- Left: GitHub Stats --> 
-<a href="https://github.com/Saptarshi1984/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saptarshi1984&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" alt="Saptarshi's GitHub stats" height="180" />
-</a>
- <!-- Right: Replace with your previous block if you want -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi1984&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" height="180" />
-</a>
+  <!-- Left: GitHub Stats -->
+  <a href="https://github.com/Saptarshi1984/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Saptarshi1984&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" alt="Saptarshi's GitHub stats" height="180" />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- spacer -->
+
+  <!-- Right: Top Languages -->
+  <a href="https://github.com/Saptarshi1984/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi1984&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" height="180" />
+  </a>
 </p>
 
 
