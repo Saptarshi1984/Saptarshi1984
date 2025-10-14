@@ -13,7 +13,7 @@
 
 ---
 &nbsp;
-
+## About me
 🌱 I recently transitioned from a 14-year career in **quality management** to **web development**.  
 🚀 Currently interning as a **Full Stack Web Developer** at Unified Mentor.  
 🎨 Passionate about building clean, intuitive UIs and responsive web apps.  
