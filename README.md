@@ -45,10 +45,8 @@
   </a>
 </p>
 
-
-
-
-
+&nbsp;
+&nbsp;
 ### 🛠️ Tech Stack
 
 **Frontend:**  
@@ -64,7 +62,7 @@
 `ZOHO Books`
 
 ---
-
+&nbsp;
 ### 🔗 Connect with Me
 
 - 📧 Email: [saptarshimondal.mail@gmail.com](mailto:saptarshimondal.mail@gmail.com)  
