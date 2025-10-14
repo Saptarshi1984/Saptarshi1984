@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saptarshi Mondal</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ---
 
 🌱 I recently transitioned from a 14-year career in **quality management** to **web development**.  
