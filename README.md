@@ -3,7 +3,7 @@
 <h2 align="center" >Hi 👋, I'm Saptarshi Mondal</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg" align="center">
+  <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=520&lines=Fullstack+Web+Developer"
       alt="Typing SVG"
@@ -21,7 +21,13 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saptarshi1984&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Saptarshi1984&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
