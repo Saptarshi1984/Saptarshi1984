@@ -1,6 +1,6 @@
 <!-- GitHub README.md for Saptarshi Mondal -->
 
-<h1 align="center">Hi 👋, I'm Saptarshi Mondal</h1>
+<h3 align="center">Hi 👋, I'm Saptarshi Mondal</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
