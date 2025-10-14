@@ -53,7 +53,7 @@
 <p align="center">
   <a href="https://github.com/Saptarshi1984/github-readme-activity-graph">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Saptarshi1984&theme=dracula"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Saptarshi1984&theme=react-dark"
       alt="Saptarshi's GitHub activity graph"
       width="100%"
     />
