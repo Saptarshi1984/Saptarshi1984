@@ -88,6 +88,9 @@
 - 🛠️ **Networking & PC Technician (A+)** – NIIT  
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=saptarshi1984&theme=onedark&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ### 🌐 Languages
 
