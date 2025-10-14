@@ -11,32 +11,6 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:saptarshimondal.mail@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="32" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/saptarshi-mondal-b9242a11a/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/saptarshi1984" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="32" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.saptarshidevworks.com" title="Website">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="32" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://saptarshi1984.github.io/PortfolioWebsite/" title="Portfolio">
-    <img src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" height="32" />
-  </a>
-</p>
-
-
-
 
 ---
 
