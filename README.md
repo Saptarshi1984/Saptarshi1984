@@ -22,43 +22,7 @@
 
 &nbsp;
 
-## 📊 GitHub Stats
 
-![Saptarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptarshi1984&hide=contribs,prs)
-
-&nbsp;
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <!-- Left: GitHub Stats -->
-  <a href="https://github.com/Saptarshi1984/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saptarshi1984&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" alt="Saptarshi's GitHub stats" height="180" />
-  </a>
-
-  <!-- Right: Top Languages -->
-  <a href="https://github.com/Saptarshi1984/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi1984&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" height="180" />
-  </a>
-</p>
-
-&nbsp;
-&nbsp;
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/Saptarshi1984/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Saptarshi1984&theme=react-dark"
-      alt="Saptarshi's GitHub activity graph"
-      width="100%"
-    />
-  </a>
-</p>
-
-&nbsp;
-&nbsp;
 ### 🛠️ Tech Stack
 
 **Frontend:**  
