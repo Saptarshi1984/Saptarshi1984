@@ -24,11 +24,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Saptarshi1984&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptarshi1984a&hide=contribs,prs)
 
 &nbsp;
 
