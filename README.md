@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptarshi1984a&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptarshi1984&hide=contribs,prs)
 
 &nbsp;
 
