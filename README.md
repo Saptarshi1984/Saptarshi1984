@@ -1,6 +1,11 @@
 <!-- GitHub README.md for Saptarshi Mondal -->
 
-<h1 align="center">Saptarshi Mondal</h1>
+
+  <p align="center">
+  <img src="./assets/saptarshi.svg" alt="Saptarshi" />
+</p>
+  
+
 
 <p align="center">
   
@@ -20,22 +25,8 @@
 🎨 Passionate about building clean, intuitive UIs and responsive web apps.  
 📚 Always learning: diving deeper into the **MERN stack** and **Figma-based UI/UX design**.
 
-&nbsp;
 
 
-### 🛠️ Tech Stack
-
-**Frontend:**  
-`HTML` `CSS` `Sass` `JavaScript` `Bootstrap` `Tailwind CSS` `NextJS` `ReactJS` `AI`
-
-**Backend & Tools:**  
-`Node.js` `MySQL` `Firebase` `Git` `GitHub` 
-
-**UX/UI Tools:**
-`Figma` `Canva` 
-
-**Accounting Tools:**
-`ZOHO Books`
 
 ---
 &nbsp;
