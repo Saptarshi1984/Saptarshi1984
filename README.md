@@ -1,6 +1,6 @@
 <!-- GitHub README.md for Saptarshi Mondal -->
 
-  <h2 align="center">🙏 Saptarshi Mondal</h2>
+  <h1 align="center">🙏 Saptarshi Mondal</h1>
 
 <p align="center">
   
