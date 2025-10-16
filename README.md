@@ -38,8 +38,8 @@
 &nbsp;
 
 <details>
-  <summary>🔗My Tech Stack</summary>
-
+  <summary><b>🔗My Tech Stack</b></summary>
+  &nbsp;
   <p><b>Programming Languages:</b></p>
   <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
@@ -76,12 +76,14 @@
 
 </details>
 
+<details>
+  <summary>🔗<b>Stats & Activities</b></summary>
 
-### 📌 Featured Projects
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Saptarshi1984&theme=tokyonight-duo&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  </a>
+</details>
 
-- 🔹 **Gas Agency System** – [Live Demo](https://saptarshi1984.github.io/GasAgency/)
-- 🔹 **Portfolio Website** – [Live Demo](https://saptarshi1984.github.io/PortfolioWebsite/)
-- 🔹 **Food Blog Website** – [Live Demo](https://saptarshi1984.github.io/UM-BlogWebsite/)
 
 ---
 
@@ -99,7 +101,7 @@
 
 ---
 
-### 🌐 Languages
+### 🌐 Languages I Speak
 
 `English` | `Hindi` | `Bengali` | `Japanese (Basic)`
 
