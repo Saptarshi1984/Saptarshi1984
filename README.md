@@ -79,9 +79,7 @@
 <details>
   <summary>🔗<b>Stats & Activities</b></summary>
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Saptarshi1984&theme=tokyonight-duo&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-  </a>
+  [![GitHub Streak](https://github-readme-streak-stats-roan-psi.vercel.app?user=Saptarshi1984&theme=tokyonight-duo&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </details>
 
 
