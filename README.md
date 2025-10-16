@@ -77,15 +77,6 @@
 </details>
 
 
-### 🔗 Connect with Me
-
-- 📧 Email: [saptarshimondal.mail@gmail.com](mailto:saptarshimondal.mail@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/saptarshi-mondal-b9242a11a](https://www.linkedin.com/in/saptarshi-mondal-b9242a11a/)
-- 💻 GitHub Portfolio: [saptarshi1984.github.io/PortfolioWebsite](https://saptarshi1984.github.io/PortfolioWebsite/)
-- Website : [Visit My Website](https://www.saptarshidevworks.com)
-
----
-
 ### 📌 Featured Projects
 
 - 🔹 **Gas Agency System** – [Live Demo](https://saptarshi1984.github.io/GasAgency/)
