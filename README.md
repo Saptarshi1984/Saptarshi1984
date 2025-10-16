@@ -1,9 +1,7 @@
 <!-- GitHub README.md for Saptarshi Mondal -->
 
 
-  <p align="center">
-  <img src="./assets/saptarshi.svg" alt="Saptarshi" />
-</p>
+  <h1 align="center">Saptarshi Mondal</h1>
   
 
 
