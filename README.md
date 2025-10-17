@@ -79,12 +79,8 @@
 <details open>
 &nbsp;
   <summary>🔗<b>Stats & Activities</b></summary>
-  <p><b>Streak Stats</b></p>
-  &nbsp;
+
   [![GitHub Streak](https://github-readme-streak-stats-roan-psi.vercel.app?user=Saptarshi1984&theme=tokyonight-duo&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  &nbsp;
-  <p><b>Github Profiles and Stats</b></p>
-  ![Saptarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptarshi1984&commits_year=2020)
 </details>
 
 
