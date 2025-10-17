@@ -79,9 +79,9 @@
 <details open>
 &nbsp;
   <summary>🔗<b>Stats & Activities</b></summary>
-  &nbsp;
-  <p><b>BaaS / Serverless Platforms:</b></p>
+  <p>
   [![GitHub Streak](https://github-readme-streak-stats-roan-psi.vercel.app?user=Saptarshi1984&theme=tokyonight-duo&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  </p>
 </details>
 
 
