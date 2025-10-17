@@ -84,7 +84,7 @@
 </details>
 <details open>
 <summary>🔗<b>Github Profiles & Stats</b></summary>
-![Saptarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptarshi1984&show_icons=true&theme=tokyonight)
+[![Saptarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptarshi1984&show_icons=true&theme=tokyonight)]
 </details>
 ---
 
