@@ -78,11 +78,10 @@
 
 <details open>
 &nbsp;
-  <summary>🔗<b>Streak Stats</b></summary>
-  [![GitHub Streak](https://github-readme-streak-stats-roan-psi.vercel.app?user=Saptarshi1984&theme=tokyonight-duo&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
+  <summary>🔗<b>Stats & Activities</b></summary>
+
+  [![GitHub Streak](https://github-readme-streak-stats-roan-psi.vercel.app?user=Saptarshi1984&theme=tokyonight-duo&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </details>
-
-
 
 
 ---
