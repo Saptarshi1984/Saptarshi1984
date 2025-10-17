@@ -84,7 +84,7 @@
   
   ![Saptarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptarshi1984&show_icons=true&theme=tokyonight)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi1984&stats_format=bytes)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi1984&stats_format=bytes&theme=tokyonight)
 
 </details>
 
