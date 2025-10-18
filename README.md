@@ -32,8 +32,6 @@
 
 ---
 
-&nbsp;
-
 <details open>
   <summary><b>🔗My Tech Stack</b></summary>
   &nbsp;
@@ -72,6 +70,8 @@
 </p>
 
 </details>
+
+---
 
 <details open>
 &nbsp;
