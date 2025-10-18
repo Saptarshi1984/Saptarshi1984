@@ -79,7 +79,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-roan-psi.vercel.app?user=Saptarshi1984&theme=tokyonight-duo&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Github Activity Graph](https://github-readme-activity-graph-beryl.vercel.app/graph?username=Saptarshi1984)
+![Github Activity Graph](https://github-readme-activity-graph-beryl.vercel.app/graph?username=Saptarshi1984theme=tokyonight)
 
 </details>
 
