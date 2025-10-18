@@ -81,14 +81,17 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-roan-psi.vercel.app?user=Saptarshi1984&theme=tokyonight-duo&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<p align='center'>
-<p><b>Github Stats</b></p>
+  <p>
+  <p><b>Github Readme Stats</b></p>
 
-[![Saptarshi's GitHub stats](https://github-readme-stats-rho-orcin-54.vercel.app/api?username=Saptarshi1984&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-rho-orcin-54.vercel.app/api?username=Saptarshi1984&show_icons=true&theme=tokyonight" height="165" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-rho-orcin-54.vercel.app/api/top-langs/?username=Saptarshi1984&layout=compact&theme=tokyonight&hide=php,mdx" height="165" />
+  </a>
 
-[![Top Langs](https://github-readme-stats-rho-orcin-54.vercel.app/api/top-langs/?username=Saptarshi1984&layout=compact&theme=tokyonight&hide=php,mdx)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
+  </p>
 
 <p><b>Github Contribution Graph</b></p>
 
