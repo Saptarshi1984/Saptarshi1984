@@ -84,7 +84,11 @@
   
 </details>
 
+<details open>
 
+[![An image of @saptarshi1984's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saptarshi1984)](https://holopin.io/@saptarshi1984)
+
+</details>
 
 ---
 
