@@ -22,9 +22,6 @@
   </a>
 </p>
 
-
-
-
 &nbsp;
 
 ## About me
@@ -80,15 +77,17 @@
 &nbsp;
   <summary>🔗<b>Streak Stats</b></summary>
 
-  [![GitHub Streak](https://github-readme-streak-stats-roan-psi.vercel.app?user=Saptarshi1984&theme=tokyonight-duo&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://github-readme-streak-stats-roan-psi.vercel.app?user=Saptarshi1984&theme=tokyonight-duo&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 </details>
 
-<details open>
-
+<!-- <details open>
+&nbsp;
+  <summary>🔗<b>HOLOPIN Badges</b></summary>
+  
 [![An image of @saptarshi1984's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saptarshi1984)](https://holopin.io/@saptarshi1984)
 
-</details>
+</details> -->
 
 ---
 
