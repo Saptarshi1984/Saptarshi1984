@@ -85,7 +85,7 @@
 
 [![Saptarshi's GitHub stats](https://github-readme-stats-rho-orcin-54.vercel.app/api?username=Saptarshi1984&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-rho-orcin-54.vercel.app/api/top-langs/?username=Saptarshi1984&theme=tokyonight&hide=php,mdx)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rho-orcin-54.vercel.app/api/top-langs/?username=Saptarshi1984&layout=compact&theme=tokyonight&hide=php,mdx)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
