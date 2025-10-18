@@ -81,6 +81,14 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-roan-psi.vercel.app?user=Saptarshi1984&theme=tokyonight-duo&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+<p align='center'>
+
+[![Saptarshi's GitHub stats](https://github-readme-stats-rho-orcin-54.vercel.app/api?username=Saptarshi1984&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-rho-orcin-54.vercel.app/api/top-langs/?username=Saptarshi1984&theme=tokyonight&hide=php,mdx)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
 <p><b>Github Contribution Graph</b></p>
 
 ![Github Activity Graph](https://github-readme-activity-graph-beryl.vercel.app/graph?username=Saptarshi1984&theme=tokyo-night)
