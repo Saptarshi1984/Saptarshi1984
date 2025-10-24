@@ -1,6 +1,6 @@
-<!-- GitHub README.md for Saptarshi Mondal -->
+﻿<!-- GitHub README.md for Saptarshi Mondal -->
 
-  <h1 align="center">🙏 Saptarshi Mondal</h1>
+  <h1 align="center">ðŸ™ Saptarshi Mondal</h1>
 
 <p align="center">
   
@@ -24,16 +24,17 @@
 
 &nbsp;
 
-## About me
+## About Me
 
-🌱 I recently transitioned from a 14-year career in **quality management** to **web development**.  
-🎨 Passionate about building clean, intuitive UIs and responsive web apps.  
-📚 Always learning: diving deeper into builing projects that solve real world problems.
+:arrow_forward: I recently transitioned from a 14-year career in **quality management** to **web development**.  
+:arrow_forward: Passionate about building clean, intuitive UIs and responsive web apps.  
+:arrow_forward: Always learning: diving deeper into builing projects that solve real world problems.
+:arrow_forward: Currently learning MongoDB and Express.js.
 
 ---
 
 <details open>
-  <summary><b>🔗My Tech Stack</b></summary>
+  <summary><b>My Tech Stack</b></summary>
   &nbsp;
   <p><b>Programming Languages:</b></p>
   <p>
@@ -75,7 +76,7 @@
 
 <details open>
 &nbsp;
-  <summary>🔗<b>Github Stats</b></summary>
+  <summary>ðŸ”—<b>Github Stats</b></summary>
 
   <p><b>Streak Stats</b></p>
 
@@ -101,7 +102,7 @@
 
 <details open>
 &nbsp;
-  <summary>🔗<b>Holopin Badges</b></summary>
+  <summary>ðŸ”—<b>Holopin Badges</b></summary>
   
 [![An image of @saptarshi1984's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saptarshi1984)](https://holopin.io/@saptarshi1984)
 
@@ -109,22 +110,25 @@
 
 ---
 
-### 🏆 Education
+### ðŸ† Education
 
-- 🧩 **Bachelor of Engineering** – Information Science and Engineering
-
----
-
-### 🏆 Certifications
-
-- 🧩 **UX/UI Design with Figma** – Udemy
-- 💻 **Responsive Web Design** – freeCodeCamp
-- 🛠️ **Networking & PC Technician (A+)** – NIIT
+- ðŸ§© **Bachelor of Engineering** â€“ Information Science and Engineering
 
 ---
 
-### 🌐 Languages I Speak
+### ðŸ† Certifications
+
+- ðŸ§© **UX/UI Design with Figma** â€“ Udemy
+- ðŸ’» **Responsive Web Design** â€“ freeCodeCamp
+- ðŸ› ï¸ **Networking & PC Technician (A+)** â€“ NIIT
+
+---
+
+### ðŸŒ Languages I Speak
 
 `English` | `Hindi` | `Bengali` | `Japanese (Basic)`
 
 ---
+
+
+
