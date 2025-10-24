@@ -76,7 +76,7 @@
 
 <details open>
 &nbsp;
-  <summary>ðŸ”—<b>Github Stats</b></summary>
+  <summary><b>Github Stats</b></summary>
 
   <p><b>Streak Stats</b></p>
 
@@ -102,7 +102,7 @@
 
 <details open>
 &nbsp;
-  <summary>ðŸ”—<b>Holopin Badges</b></summary>
+  <summary><b>Holopin Badges</b></summary>
   
 [![An image of @saptarshi1984's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saptarshi1984)](https://holopin.io/@saptarshi1984)
 
@@ -110,21 +110,21 @@
 
 ---
 
-### ðŸ† Education
+### Education
 
-- ðŸ§© **Bachelor of Engineering** â€“ Information Science and Engineering
-
----
-
-### ðŸ† Certifications
-
-- ðŸ§© **UX/UI Design with Figma** â€“ Udemy
-- ðŸ’» **Responsive Web Design** â€“ freeCodeCamp
-- ðŸ› ï¸ **Networking & PC Technician (A+)** â€“ NIIT
+**Bachelor of Engineering** â€“ Information Science and Engineering
 
 ---
 
-### ðŸŒ Languages I Speak
+### Certifications
+
+- **UX/UI Design with Figma**  Udemy
+- **Responsive Web Design**  freeCodeCamp
+- **Networking & PC Technician (A+)**  NIIT
+
+---
+
+### Languages I Speak
 
 `English` | `Hindi` | `Bengali` | `Japanese (Basic)`
 
