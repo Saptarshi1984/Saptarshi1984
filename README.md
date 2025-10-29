@@ -26,7 +26,6 @@
 
 ## About Me
 
-:arrow_forward: I recently transitioned from a 14-year career in **quality management** to **web development**.  
 :arrow_forward: Passionate about building clean, intuitive UIs and responsive web apps.  
 :arrow_forward: Always learning: diving deeper into builing projects that solve real world problems.  
 :arrow_forward: Currently learning MongoDB and Express.js.  
