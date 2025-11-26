@@ -125,7 +125,7 @@
 
 ### Languages I Speak
 
-`English` | `Hindi` | `Bengali` | `Japanese (Basic)`
+`English` | `Hindi` | `Bengali` 
 
 ---
 
