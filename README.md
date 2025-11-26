@@ -111,7 +111,7 @@
 
 ### Education
 
-**Bachelor of Engineering** â€“ Information Science and Engineering
+**Bachelor of Engineering** -- Information Science and Engineering
 
 ---
 
