@@ -28,7 +28,7 @@
 
 :arrow_forward: Passionate about building clean, intuitive UIs and responsive web apps.  
 :arrow_forward: Always learning: diving deeper into builing projects that solve real world problems.  
-:arrow_forward: Currently learning MongoDB and Express.js.  
+:arrow_forward: Currently learning MongoDB and Express.js.
 
 ---
 
@@ -115,19 +115,65 @@
 
 ---
 
-### Certifications
+<details open>
+         <summary><b>Certifications</b></summary>
 
-- **UX/UI Design with Figma**  Udemy
-- **Responsive Web Design**  freeCodeCamp
-- **Networking & PC Technician (A+)**  NIIT
+<div>
+<div style="margin:8px 10px;">
+  <a href="https://scrimba.com/u423c97e:certs;cert2JbLs3qgBCQpUCMwt7jf3Y7s5pxS7w3LzoGPfQ" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/The%20AI%20Engineer%20Path-Scrimba-1E1F26?style=for-the-badge&logo=scrimba&logoColor=00E8FF" alt="AI Engineer Path" />
+  </a><br />
+</div>
 
----
+<div style="margin:8px 10px;">
+  <a href="https://scrimba.com/u423c97e:certs;cert2JbLs3qgBCQpUCMwt7jf3Y8srVRCM4fVuP2Cft" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LEARN%20TYPESCRIPT-Scrimba-1E1F26?style=for-the-badge&logo=scrimba&logoColor=00E8FF" alt="Learn TypeScript" />
+  </a><br />
+</div>
+
+<div style="margin:8px 10px;">
+  <a href="https://scrimba.com/u423c97e:certs;cert2ffentAFN4jF6p9xKkwDUGD9NDJR5kko2igdZRRoGvM99c" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LEARN%20NEXTJS-Scrimba-1E1F26?style=for-the-badge&logo=scrimba&logoColor=00E8FF" alt="Learn NestJS" />
+  </a><br />
+</div>
+
+<div style="margin:8px 10px;">
+  <a href="https://scrimba.com/u423c97e:certs;cert2ffentAFN4jF6p9xKkwDUGD9NDJR5kko2igdZRRoGvM99c" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/INTRO%20TO%20SUPABASE-Scrimba-1E1F26?style=for-the-badge&logo=scrimba&logoColor=00E8FF" alt="Intro to Supabase" />
+  </a><br />
+</div>
+
+<div style="margin:8px 10px;">
+  <a href="https://www.udemy.com/certificate/..." style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/UX%2FUI%20Design%20with%20Figma-Udemy-8A2BE2?style=for-the-badge&logo=figma&logoColor=white" alt="UX/UI Design with Figma" />
+  </a><br />  
+</div>
+
+<div style="margin:8px 10px;">
+  <a href="https://www.freecodecamp.org/certification/fccf668a221-290a-4cfe-aa38-a1fecab8d8bb/responsive-web-design" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Legacy%20Responsive%20Web%20Design%20V8-freeCodeCamp-0A7E8C?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design" />
+  </a><br />  
+</div>
+
+<div style="margin:8px 10px;">
+  <a href="https://www.freecodecamp.org/certification/fccf668a221-290a-4cfe-aa38-a1fecab8d8bb/responsive-web-design" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Frotnend%20Development%20Libraries %20V8-freeCodeCamp-0A7E8C?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design" />
+  </a><br />  
+</div>
+
+<div style="margin:8px 10px;">
+  <a href="https://www.niit.com/..." style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Networking%20%26%20PC%20Technician%20(A%2B)-NIIT-FF6B00?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking & PC Technician" />
+  </a><br />
+  
+</div>
+
+</div>
+</details>
+
 
 ### Languages I Speak
 
-`English` | `Hindi` | `Bengali` 
+`English` | `Hindi` | `Bengali`
 
 ---
-
-
-
