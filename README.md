@@ -114,9 +114,8 @@
 <div align="center">
 
 <div style="display:inline-block;padding:18px 24px;border-radius:18px;background:linear-gradient(135deg,#0f172a,#111827);border:1px solid #3b82f6;box-shadow:0 12px 30px rgba(59,130,246,0.22);">
-  <h1>Bachelor of Engineering</h1>
-  <div style="font-size:16px;color:#93c5fd;margin-top:4px;">
-  <h2>Information Science and Engineering</h2></div>
+  <h1>Bachelor of Engineering</h1>  
+  <h2>Information Science and Engineering</h2>
   <div style="font-size:14px;color:#cbd5e1;margin-top:10px;">University: <b>Visvesvaraya Technological University</b></div>
   <div style="font-size:14px;color:#cbd5e1;">College: <b>KNS Institute of Technology</b></div>
 </div>
