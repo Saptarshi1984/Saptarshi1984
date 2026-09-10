@@ -28,7 +28,7 @@
 
 :arrow_forward: Passionate about building clean, intuitive UIs and responsive web apps.  
 :arrow_forward: Always learning: diving deeper into building projects that solve real world problems.  
-:arrow_forward: Currently learning Python, Docker.
+:arrow_forward: Currently learning Docker, Computer Vison.
 
 ---
 
@@ -50,14 +50,13 @@
   <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=fff"/>
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=fff"/>
 </p>
 
 <p><b>Databases & Cloud Hostings:</b></p>
 <p>
   <img src="https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=fff"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff"/>
 </p>
 
