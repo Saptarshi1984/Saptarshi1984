@@ -27,7 +27,7 @@
 ## About Me
 
 :arrow_forward: Passionate about building clean, intuitive UIs and responsive web apps.  
-:arrow_forward: Always learning: diving deeper into builing projects that solve real world problems.  
+:arrow_forward: Always learning: diving deeper into building projects that solve real world problems.  
 :arrow_forward: Currently learning Python, MongoDB and Express.js.
 
 ---
